@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Coffee House</string>
+    <string name="toppings">Toppings</string>
+    <string name="menu">Menu</string>
+    <string name="cart">Cart</string>
+</resources>
